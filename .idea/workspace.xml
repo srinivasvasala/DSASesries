@@ -5,30 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba758687-7397-4568-a409-9e520d1bd8bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/624a77bf1fdc18d24196679d24b0d1d6375710f9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6ab76cec70e6ae717ef328069a80b531fa2c851e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f116160e72b88784234c3fdfd2b33af989c3594a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/2/624a77bf1fdc18d24196679d24b0d1d6375710f9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/a/6ab76cec70e6ae717ef328069a80b531fa2c851e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/1/f116160e72b88784234c3fdfd2b33af989c3594a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseString/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/matrix_problems/spiral_matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GCDEuclidean/GCDeuclidean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GCDEuclidean/GCDeuclidean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimeNumbers/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeNumbers/PrimeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BackTracking/NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BackTracking/NQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/LLcreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LLcreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Maths/Armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Maths/Armstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Recursion_Basics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Recursion_Basics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/fibanocci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/fibanocci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,15 +32,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;srinivasvasala&quot;
+  }
+}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/srinivasvasala/DSASesries.git&quot;,
+    &quot;accountId&quot;: &quot;105125bc-992d-49ae-8c46-f9596b733093&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2eBM1773VMURP1EGHsxjgcZBVDc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -57,11 +64,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Armstrong.executor": "Run",
+    "Application.NQueens.executor": "Run",
+    "Application.Recursion_Basics.executor": "Run",
+    "Application.fibanocci.executor": "Run",
     "Application.spiral_matrix.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/vasal/IdeaProjects/DSASesries",
@@ -70,27 +82,20 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "terminal",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.spiral_matrix">
-    <configuration name="GCDeuclidean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GCDEuclidean.GCDeuclidean" />
+  <component name="RunManager" selected="Application.NQueens">
+    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BackTracking.NQueens" />
       <module name="DSASesries" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GCDEuclidean.*" />
+          <option name="PATTERN" value="BackTracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="DSASesries" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,12 +107,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseString.ReverseString" />
+    <configuration name="Recursion_Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Recursion_Basics" />
       <module name="DSASesries" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReverseString.*" />
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fibanocci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.fibanocci" />
+      <module name="DSASesries" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,19 +148,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NQueens" />
         <item itemvalue="Application.spiral_matrix" />
+        <item itemvalue="Application.fibanocci" />
+        <item itemvalue="Application.Recursion_Basics" />
         <item itemvalue="Application.PrimeNumbers" />
-        <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.GCDeuclidean" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.19533.56" />
-        <option value="bundled-js-predefined-d6986cc7102b-eef0733dfcaf-JavaScript-IU-242.19533.56" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
       </set>
     </attachedChunks>
   </component>
@@ -162,7 +180,18 @@
       <workItem from="1712301252283" duration="1803000" />
       <workItem from="1712403023668" duration="1188000" />
       <workItem from="1719744131764" duration="3590000" />
-      <workItem from="1720096781174" duration="4745000" />
+      <workItem from="1720096781174" duration="6980000" />
+      <workItem from="1720130271648" duration="161000" />
+      <workItem from="1720195395573" duration="335000" />
+      <workItem from="1721205390242" duration="1144000" />
+      <workItem from="1721320820204" duration="1367000" />
+      <workItem from="1723881510445" duration="4311000" />
+      <workItem from="1724084750417" duration="622000" />
+      <workItem from="1724085403057" duration="1923000" />
+      <workItem from="1724160339180" duration="4089000" />
+      <workItem from="1724343273953" duration="212000" />
+      <workItem from="1724343510588" duration="108000" />
+      <workItem from="1724343637567" duration="6428000" />
     </task>
     <servers />
   </component>
