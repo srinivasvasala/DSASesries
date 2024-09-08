@@ -1,4 +1,4 @@
-package matrix_problems;
+package Matrix;
 
 public class spiral_matrix{
     public static void spiralMatrix(int m, int n, int[][] a){
