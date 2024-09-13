@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba758687-7397-4568-a409-9e520d1bd8bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Maps/findDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GCDEuclidean/GCDeuclidean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GCDEuclidean/GCDeuclidean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/fibanocci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/fibanocci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +198,8 @@
       <workItem from="1725793023504" duration="6480000" />
       <workItem from="1725908328514" duration="85000" />
       <workItem from="1725908453857" duration="560000" />
-      <workItem from="1725991614701" duration="1524000" />
+      <workItem from="1725991614701" duration="3858000" />
+      <workItem from="1726037363709" duration="113000" />
     </task>
     <servers />
   </component>
