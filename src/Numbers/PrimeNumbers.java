@@ -1,4 +1,4 @@
-package PrimeNumbers;
+package Numbers;
 
 import static java.lang.Math.sqrt;
 

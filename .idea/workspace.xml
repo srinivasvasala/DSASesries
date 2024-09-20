@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba758687-7397-4568-a409-9e520d1bd8bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SecondLowest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SecondMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maps/findMostRepeated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Numbers/PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks/StackExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/ReverseWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeNumbers/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Numbers/PrimeNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +46,10 @@
     &quot;accountId&quot;: &quot;105125bc-992d-49ae-8c46-f9596b733093&quot;
   }
 }</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -63,9 +70,14 @@
     "Application.Armstrong.executor": "Run",
     "Application.GCDeuclidean.executor": "Run",
     "Application.NQueens.executor": "Run",
+    "Application.PalindromeNumber.executor": "Run",
     "Application.Recursion_Basics.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.ReverseWords.executor": "Run",
     "Application.SecondLowest.executor": "Run",
     "Application.SecondMax.executor": "Run",
+    "Application.StackExample.executor": "Run",
+    "Application.Strings.ReverseString.executor": "Debug",
     "Application.fibanocci.executor": "Run",
     "Application.findMostRepeated.executor": "Debug",
     "Application.secondLowest.executor": "Run",
@@ -84,17 +96,17 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SecondLowest">
-    <configuration name="SecondLowest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.SecondLowest" />
+  <component name="RunManager" selected="Application.PalindromeNumber">
+    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Numbers.PalindromeNumber" />
       <module name="DSASesries" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Numbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.SecondMax" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stacks.ReverseString" />
       <module name="DSASesries" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Stacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fibanocci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.fibanocci" />
+    <configuration name="ReverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.ReverseWords" />
       <module name="DSASesries" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findMostRepeated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Maps.findMostRepeated" />
+    <configuration name="StackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stacks.StackExample" />
       <module name="DSASesries" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Maps.*" />
+          <option name="PATTERN" value="Stacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="spiral_matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Matrix.spiral_matrix" />
+    <configuration name="Strings.ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.ReverseString" />
       <module name="DSASesries" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Matrix.*" />
+          <option name="PATTERN" value="Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SecondLowest" />
-        <item itemvalue="Application.SecondMax" />
-        <item itemvalue="Application.findMostRepeated" />
-        <item itemvalue="Application.spiral_matrix" />
-        <item itemvalue="Application.fibanocci" />
+        <item itemvalue="Application.PalindromeNumber" />
+        <item itemvalue="Application.Strings.ReverseString" />
+        <item itemvalue="Application.ReverseWords" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.StackExample" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +223,15 @@
       <workItem from="1726287784983" duration="651000" />
       <workItem from="1726291986142" duration="81000" />
       <workItem from="1726297489744" duration="1088000" />
-      <workItem from="1726304319858" duration="12011000" />
+      <workItem from="1726304319858" duration="12732000" />
+      <workItem from="1726329534568" duration="42000" />
+      <workItem from="1726336966467" duration="659000" />
+      <workItem from="1726337668344" duration="97000" />
+      <workItem from="1726337784400" duration="90000" />
+      <workItem from="1726337895441" duration="129000" />
+      <workItem from="1726481925108" duration="5550000" />
+      <workItem from="1726811213584" duration="1689000" />
+      <workItem from="1726849780046" duration="4816000" />
     </task>
     <servers />
   </component>
