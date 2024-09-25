@@ -1,35 +1,33 @@
 package LinkedList;
 
 public class LLcreation {
-    private static class Node{
-        int data;
-        Node next;
-        Node head;
-        Node tail;
-        int size;
-        Node(int data){
-            this.data=data;
-            this.next=null;
+    private static class ListNode{
+        int val;
+        ListNode next;
+
+        public ListNode(int val) {
+            this.val = val;
         }
-        //Add a Node at the end of the List
-        public void add(int data){
-            Node newNode=new Node(data);
-            newNode.next = head;
-            if(head==null){ //if a list is empty
-                head=newNode;
-                tail=newNode;
-            }else {
-                tail.next=newNode;
-                tail=newNode;
-            }
-            size++;
+    }
+
+    public static void main(String[] args) {
+        //list nodes
+        // 1->2->3->4
+        ListNode head = new ListNode(1);
+        ListNode l1 = new ListNode(2);
+        ListNode l2 = new ListNode(3);
+        ListNode l3 = new ListNode(4);
+
+        //connect nodes
+        head.next = l1;
+        l1.next = l2;
+        l2.next = l3;
+        l3.next = null;
+
+        //print nodes
+        while(head!=null){
+            System.out.print(head.val+" -> ");
+            head = head.next;
         }
-        public void update(int data){
-
-        }
-
-
-
-
     }
 }
