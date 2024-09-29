@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba758687-7397-4568-a409-9e520d1bd8bf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparablesAndComparators/AgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparablesAndComparators/ComparatorEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComparablesAndComparators/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queues/CeateDequeue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queues/CreateQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queues/PriorityQueues.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LLcreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LLcreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSASesries.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSASesries.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,10 +69,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Armstrong.executor": "Run",
+    "Application.CeateDequeue.executor": "Run",
+    "Application.CreateQueue.executor": "Run",
     "Application.GCDeuclidean.executor": "Run",
     "Application.LLcreation.executor": "Run",
     "Application.NQueens.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
+    "Application.PriorityQueues.executor": "Run",
     "Application.Recursion_Basics.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.ReverseWords.executor": "Run",
@@ -77,8 +85,13 @@
     "Application.Strings.ReverseString.executor": "Debug",
     "Application.fibanocci.executor": "Run",
     "Application.findMostRepeated.executor": "Debug",
+    "Application.priorityQueue.executor": "Run",
     "Application.secondLowest.executor": "Run",
     "Application.spiral_matrix.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -97,7 +110,46 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LLcreation">
+  <component name="RunManager" selected="Application.ComparatorEx">
+    <configuration name="CeateDequeue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queues.CeateDequeue" />
+      <module name="DSASesries" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Queues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComparatorEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComparablesAndComparators.ComparatorEx" />
+      <module name="DSASesries" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ComparablesAndComparators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queues.CreateQueue" />
+      <module name="DSASesries" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Queues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LLcreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedList.LLcreation" />
       <module name="DSASesries" />
@@ -111,51 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Numbers.PalindromeNumber" />
+    <configuration name="PriorityQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queues.PriorityQueues" />
       <module name="DSASesries" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Numbers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stacks.ReverseString" />
-      <module name="DSASesries" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stacks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.ReverseWords" />
-      <module name="DSASesries" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Strings.ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.ReverseString" />
-      <module name="DSASesries" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComparatorEx" />
+        <item itemvalue="Application.CeateDequeue" />
+        <item itemvalue="Application.PriorityQueues" />
+        <item itemvalue="Application.CreateQueue" />
         <item itemvalue="Application.LLcreation" />
-        <item itemvalue="Application.PalindromeNumber" />
-        <item itemvalue="Application.Strings.ReverseString" />
-        <item itemvalue="Application.ReverseWords" />
-        <item itemvalue="Application.ReverseString" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +247,8 @@
       <workItem from="1727192173505" duration="749000" />
       <workItem from="1727193247878" duration="594000" />
       <workItem from="1727194042385" duration="599000" />
-      <workItem from="1727282701398" duration="888000" />
+      <workItem from="1727282701398" duration="1532000" />
+      <workItem from="1727578269939" duration="5896000" />
     </task>
     <servers />
   </component>
